@@ -24,5 +24,6 @@ func main() {
 
 	http.Handle("/users", UserViewHandler(users))
 	http.HandleFunc("/status", StatusHandler)
+	http.HandleFunc("/url", URLHandler)
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
