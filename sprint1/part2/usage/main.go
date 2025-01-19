@@ -8,10 +8,13 @@ import (
 
 var version = "0.0.1"
 
+var MyUsage = func() {
+	fmt.Fprintf(flag.CommandLine.Output(), "Version: %s\n", version)
+	fmt.Fprintf(flag.CommandLine.Output(), "Usage of %s:\n", os.Args[0])
+	flag.PrintDefaults()
+}
+
 func main() {
-	flag.Usage = func() {
-		fmt.Fprintf(flag.CommandLine.Output(), "Usage of %s v%s:\n", os.Args[0], version)
-		flag.PrintDefaults()
-	}
+	flag.Usage = MyUsage
 	flag.Parse()
 }
