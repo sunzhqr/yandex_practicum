@@ -1,0 +1,6 @@
+server 2025/02/06 main.go:16: Start server
+server 2025/02/06 main.go:17: Finish server
+server 2025/02/06 18:27:49 main.go:16: Start server
+server 2025/02/06 18:27:49 main.go:17: Finish server
+server 2025/02/06 18:31:52 main.go:16: Start server
+server /home/student/yandex_practicum/sprint2/logging/log-new/main.go:18: Finish server
