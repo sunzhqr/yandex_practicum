@@ -1,0 +1,7 @@
+time="2025-02-09T21:33:37+05:00" level=warning msg="Hurry Up Tomorrow is the final installment of a trilogy following the Weeknd's previous two studio albums." name="Hurry Up Tomorrow" omg=true
+time="2025-02-09T21:33:37+05:00" level=fatal msg="But the After Hours album the highest rated in media" name="After Hours" omg=true
+{"level":"warning","msg":"Hurry Up Tomorrow is the final installment of a trilogy following the Weeknd's previous two studio albums.","name":"Hurry Up Tomorrow","omg":true,"time":"2025-02-09T21:34:40+05:00"}
+{"level":"fatal","msg":"But the After Hours album the highest rated in media","name":"After Hours","omg":true,"time":"2025-02-09T21:34:40+05:00"}
+time="2025-02-09T21:36:41+05:00" level=info msg="The king of modern pop industry" genre=pop singer="The Weeknd"
+time="2025-02-09T21:36:41+05:00" level=warning msg="Hurry Up Tomorrow is the final installment of a trilogy following the Weeknd's previous two studio albums." name="Hurry Up Tomorrow" omg=true
+time="2025-02-09T21:36:41+05:00" level=fatal msg="But the After Hours album the highest rated in media" name="After Hours" omg=true
